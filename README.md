@@ -10,7 +10,7 @@ Built on Microsoft's open-source [markitdown](https://github.com/microsoft/marki
 Supported inputs: Word, PowerPoint, Excel, PDF, HTML, CSV, JSON, XML, text, Outlook .msg, EPUB, ZIP.
 
 ## For users (Windows)
-1. Download `MarkItDownDrop.exe` from the Releases page.
+1. Download `MarkItDownDrop.exe` from the [Releases page](https://github.com/getsanjeevs/MarkItDown-Drop/releases/latest).
 2. Double-click it, wait for "Drag & drop files or folders here".
 3. Drop files or folders. Results appear in a `markdown` folder next to each file (or the folder you choose).
 
